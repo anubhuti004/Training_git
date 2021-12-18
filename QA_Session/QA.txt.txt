@@ -1,0 +1,2 @@
+Manual Teesting - Verification of 
+test cases without the use of automation tools 
