@@ -1,0 +1,3 @@
+Welcome to the QA training
+1) Manual Testing 
+2) Automation Testing
